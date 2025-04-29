@@ -1,0 +1,31 @@
+package ru.dimalab.minegui.utils;
+
+public enum WidgetType {
+    ACCORDION,
+    ACCORDION_SECTION,
+    BLINKING_CURSOR,
+    BUTTON,
+    CHECKBOX,
+    COUNTDOWN,
+    DROPDOWN,
+    ENTITY_WIDGET,
+    IMAGE,
+    IMAGE_SLIDER,
+    LINE,
+    LOADER_SPINNER,
+    MARQUEE,
+    MULTILINE_TEXT_FIELD,
+    PROGRESS_BAR,
+    RADIO_BUTTON,
+    RADIO_GROUP,
+    SIDEBAR,
+    SLIDER,
+    STATUS_INDICATOR,
+    TAB,
+    TABLE,
+    TABS,
+    TEXT,
+    TEXT_FIELD,
+    TIME_PICKER
+}
+
